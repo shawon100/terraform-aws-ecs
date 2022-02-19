@@ -29,4 +29,4 @@
   terraform apply
   ```
 
-
+6. After finishing apply command there will be a output of loadbalancer address. Copy and paste it to a browser address bar. You can see a Hello World app.
